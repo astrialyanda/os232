@@ -21,3 +21,7 @@ permalink: LINKS/
 <br>
 [Fragmentation in Computer Programming](https://www.javatpoint.com/fragmentation-in-operating-system#:~:text=External%20fragmentation%20happens%20when%20a,but%20it%20is%20not%20contiguous.) - learning about external fragmentation
 <br>
+
+## Week04
+[Linux Kernel Updates](https://tuxcare.com/blog/the-2023-deep-dive-to-linux-kernel-updates/#:~:text=Maintaining%20a%20secure%20and%20reliable,keep%20your%20system%20operating%20correctly.) - regular linux update
+[Compaction in OS](https://www.geeksforgeeks.org/compaction-in-operating-system/) - understanding what is memory compaction
