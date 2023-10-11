@@ -20,3 +20,6 @@ ZCZC W03 20 L40 TXT/ related in general.
 ZCZC W04 60 L15 Assignment #05
 ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 60 L15 Assignment #05
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 15 L03 GitHub and git related, including commit, push, pull

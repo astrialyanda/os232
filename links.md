@@ -25,3 +25,6 @@ permalink: LINKS/
 ## Week04
 [Linux Kernel Updates](https://tuxcare.com/blog/the-2023-deep-dive-to-linux-kernel-updates/#:~:text=Maintaining%20a%20secure%20and%20reliable,keep%20your%20system%20operating%20correctly.) - regular linux update
 [Compaction in OS](https://www.geeksforgeeks.org/compaction-in-operating-system/) - understanding what is memory compaction
+
+## Week05
+[What is Demand Paging](https://www.geeksforgeeks.org/what-is-demand-paging-in-operating-system/) - understanding physical memory and virtual memory usage on pure demand paging
