@@ -24,7 +24,17 @@ permalink: LINKS/
 
 ## Week04
 [Linux Kernel Updates](https://tuxcare.com/blog/the-2023-deep-dive-to-linux-kernel-updates/#:~:text=Maintaining%20a%20secure%20and%20reliable,keep%20your%20system%20operating%20correctly.) - regular linux update
+<br>
 [Compaction in OS](https://www.geeksforgeeks.org/compaction-in-operating-system/) - understanding what is memory compaction
+<br>
 
 ## Week05
 [What is Demand Paging](https://www.geeksforgeeks.org/what-is-demand-paging-in-operating-system/) - understanding physical memory and virtual memory usage on pure demand paging
+<br>
+
+## Week06
+[Dynamic memory allocation](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) - knowing what is malloc() and calloc()
+<br>
+[What is Process Control Block](https://datatrained.com/post/process-control-block-in-os/#:~:text=OS%20(PCB)%3F-,A%20Process%20Control%20Block%20in%20OS%20(PCB)%20is%20a%20data,resources%20used%20by%20the%20process.) - knowing where PCB keeped
+<br>
+[fork() in C](https://www.geeksforgeeks.org/fork-system-call/) - understanding fork()
