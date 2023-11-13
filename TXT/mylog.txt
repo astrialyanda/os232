@@ -26,3 +26,6 @@ ZCZC W05 15 L03 GitHub and git related, including commit, push, pull
 ZCZC W06 60 L16 Assignment #06
 ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 15 L25 C-language including Make.
+ZCZC W07 60 L17 Assignment #07
+ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 15 L40 TXT/ related in general.
