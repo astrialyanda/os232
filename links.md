@@ -47,3 +47,8 @@ permalink: LINKS/
 [What is Race Condition in OS](https://www.codingninjas.com/studio/library/what-is-race-condition-in-os) - knowing what race conditions in os is 
 <br>
 [Lightweight Processes](https://docs.oracle.com/cd/E19455-01/806-5257/mtintro-72944/index.html#:~:text=Lightweight%20processes%20(LWPs)%20bridge%20the,the%20creation%20of%20an%20LWP) - Lightweight processes in thread scheduling
+<br>
+
+## Week09
+[Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/index.html) - do weekly assignment
+<br>
