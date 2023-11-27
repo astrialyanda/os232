@@ -29,3 +29,6 @@ ZCZC W06 15 L25 C-language including Make.
 ZCZC W07 60 L17 Assignment #07
 ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W07 15 L40 TXT/ related in general.
+ZCZC W08 120 L18 Assignment #08
+ZCZC W08 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 100 L02 CLASSROOM/ZOOM meetings related

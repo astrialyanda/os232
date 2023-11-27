@@ -38,6 +38,12 @@ permalink: LINKS/
 [What is Process Control Block](https://datatrained.com/post/process-control-block-in-os/#:~:text=OS%20(PCB)%3F-,A%20Process%20Control%20Block%20in%20OS%20(PCB)%20is%20a%20data,resources%20used%20by%20the%20process.) - knowing where PCB keeped
 <br>
 [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) - understanding fork()
+<br>
 
 ## Week07
-[Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) - knowing what deadlock is
+[Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) - knowing what deadlock is <br>
+
+## Week08
+[What is Race Condition in OS](https://www.codingninjas.com/studio/library/what-is-race-condition-in-os) - knowing what race conditions in os is 
+<br>
+[Lightweight Processes](https://docs.oracle.com/cd/E19455-01/806-5257/mtintro-72944/index.html#:~:text=Lightweight%20processes%20(LWPs)%20bridge%20the,the%20creation%20of%20an%20LWP) - Lightweight processes in thread scheduling
